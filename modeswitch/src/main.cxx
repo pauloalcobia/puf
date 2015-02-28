@@ -20,8 +20,6 @@
 
 /* $Id: main.cxx,v 1.7 2006/08/24 21:10:15 gaufille Exp $ */
 
-using namespace std;
-
 #include <iostream>
 #include <string>
 #include <usb.h>
@@ -29,6 +27,8 @@ using namespace std;
 #include <signal.h>
 #include "config.h"
 #include "usbdevice.h"
+
+using namespace std;
 
 static void help_msg(void)
 {

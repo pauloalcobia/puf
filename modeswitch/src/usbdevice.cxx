@@ -20,12 +20,12 @@
 
 /* $Id: usbdevice.cxx,v 1.6 2006/08/25 16:05:49 gaufille Exp $ */
 
-using namespace std;
-
 #include <iostream>
 #include <usb.h>
 #include "config.h"
 #include "usbdevice.h"
+
+using namespace std;
 
 
 USBDevice::USBDevice(struct usb_device *dev, int cfg)
