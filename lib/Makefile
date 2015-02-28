@@ -1,5 +1,3 @@
-srcdir = .
-
 PIC_TYPE := 18f2455
 
 PROGRAMS = libpuf.lib
