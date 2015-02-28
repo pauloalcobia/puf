@@ -1,0 +1,22 @@
+PIC USB Framework - host demo application (1.1)
+
+  * error management using exceptions
+  * help message has been added
+  * code clean up
+  * better device selectivity (by vendor id, product id, device filename)
+
+ -- Pierre Gaufillet <pierre.gaufillet@magic.fr>  Wed Aug 23 23:01:01 CEST 2006
+
+PIC USB Framework - host demo application (1.0)
+
+  * License updated to GPL 2
+  * -c <configuration #> can now be used to specify the configuration ID
+
+ -- Pierre Gaufillet <pierre.gaufillet@magic.fr>  Sat Apr 22 12:09:53 CEST 2006
+
+PIC USB Framework - host demo application (0.1)
+
+  * Initial release
+
+ -- Pierre Gaufillet <pierre.gaufillet@magic.fr>  Tue Mar 21 23:13:52 CET 2006
+
